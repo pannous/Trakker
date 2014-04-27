@@ -36,6 +36,11 @@ To be in peace mode the player has to rest for n minutes, both virtually and in 
 Players who die will respawn in peace mode.
 It takes n seconds to leave peace mode, the environment will receive a warning beforehand.
 
+elements of the game
+--------------------
+(3D) COSTUMES, to be 'invisible' in history adventures, otherwise you will be 'outed'
+DISCOVERY: find real world flowers,birds,items,... photo -> virtual inventory + achievements
+
 items
 --------
 items can be dropped in the virtual world, the real wor•ld or both.
